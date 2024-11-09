@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "quantum_agent"
+version = "0.1.00"
+description = "just for fun"
+authors = ["Julia G"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+agentops = "^0.3.12"
+crewai = "^0.63.6"
+crewai-tools= "0.12.1"
+python-dotenv="1.0.1"
+
+[project.scripts]
+quantum_agent = "quantum_agent.main:run"
+run_crew = "quantum_agent.main:run"
+train = "quantum_agent.main:train"
+replay = "quantum_agent.main:replay"
+test = "quantum_agent.main:test"
