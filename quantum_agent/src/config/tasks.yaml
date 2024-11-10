@@ -1,0 +1,8 @@
+theme_creation:
+  description: >
+    Conduct a thorough analysis of {niche} and create a list of successful themes in the niche upon which the creator can create content.
+
+  expected_output: >
+    The final report must expand on the creator's niche including analysis of the most successful content in the niche.
+    It also must include a list of themes around which the creator can create content.
+  
