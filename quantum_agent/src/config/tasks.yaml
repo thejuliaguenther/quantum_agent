@@ -13,3 +13,9 @@ content_planner:
     The final report must include a content plan for the niche that the creator is interested in. This report must inckude 
     a daily schedule for the content plan to grow the creator's folowing in accordance with their goal.
 
+content_generator:
+  description: >
+    Create content for the niche that the creator is interested in.
+
+  expected_output: >
+    The final output must include engaging content for the {niche} that the creator is interested in.
