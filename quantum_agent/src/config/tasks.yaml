@@ -5,4 +5,11 @@ theme_creation:
   expected_output: >
     The final report must expand on the creator's niche including analysis of the most successful content in the niche.
     It also must include a list of themes around which the creator can create content.
-  
+content_planner:
+  description: >
+    Create a content plan for the niche that the creator is interested in.
+
+  expected_output: >
+    The final report must include a content plan for the niche that the creator is interested in. This report must inckude 
+    a daily schedule for the content plan to grow the creator's folowing in accordance with their goal.
+
